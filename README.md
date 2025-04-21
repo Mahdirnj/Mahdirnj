@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Ranjkesh</h1>
 <h3 align="center">A frontend developer</h3>
 
-My portfolio: <a hred="https://mahdirn.ir/">
+My portfolio: <a href="https://mahdirn.ir/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdirnj&label=Profile%20views&color=0e75b6&style=flat" alt="mahdirnj" /> </p>
 
