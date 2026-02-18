@@ -4,12 +4,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="150" src="https://camo.githubusercontent.com/d36b508da50962f8bdeb0922b4aa5cb7e3750ed6091b02af5b9bb65c9be62455/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b5057566a5a6a41315a5451335958413562576479636d7832637a5630616d6875646d6c764f484e6f4f544577656d7875616a4a684d6a5636626e64745a57747062695a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f35654c4472456152474865677832466546322f67697068792e676966"  />
-
-###
-
 <h1 align="left">Hey there👋. I'm Mahdi Ranjkesh. What's up?</h1>
 
 ###
@@ -68,10 +62,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Mahdirnj.Mahdirnj&"  />
-
-###
-
 <div align="center">
   <a href="www.linkedin.com/in/mahdi-ranjkesh-592b74134" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -86,12 +76,14 @@
 
 ###
 
-<br clear="both">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Mahdirnj.Mahdirnj&"  />
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdirnj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahdirnj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Mahdirnj&theme=apprentice&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31jrpyjqvxhpidzbnkgs4grxseby">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jrpyjqvxhpidzbnkgs4grxseby&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
